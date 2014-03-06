@@ -1,0 +1,22 @@
+{
+  "name": "App",
+  "main": "index.js",
+  "version": "0.1.0",
+  "authors": [
+    "Autarc <Autarc@gmail.com>"
+  ],
+  "description": "Web Application of 'http://crowd-stats.com'",
+  "license": "MIT",
+  "homepage": "http://crowd-stats.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "~3.0.0"
+  }
+}

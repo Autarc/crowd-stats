@@ -1,0 +1,23 @@
+{
+  "globals": {
+    "module": true,
+    "requirejs": true,
+    "require": true,
+    "define": true
+  },
+  "maxlen": 100,
+  "indent": 2,
+  "esnext": true,
+  "multistr": true,
+  "smarttabs": true,
+  "sub": true,
+  "immed": true,
+  "latedef": false,
+  "newcap": true,
+  "noempty": true,
+  "nonew": true,
+  "camelcase": true,
+  "noarg": true,
+  "undef": false,
+  "unused": false
+}
