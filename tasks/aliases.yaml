@@ -1,0 +1,12 @@
+default:
+  - 'build'
+
+dev:
+  - 'build'
+  - 'concurrent' # nodemon, watch & co.
+
+build:
+  # - 'copy'
+  - 'stylus'
+  - 'browserify'
+  - 'uglify'
